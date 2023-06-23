@@ -27,15 +27,15 @@ Replace virtual environment with the name you want to call the environment you g
 Remember to use the appropriate Python version (python3) based on your system configuration.
 
 Next you have to start running the environment with the command: 
-'virtual _environmnet\Scripts\activate'
+'''virtual _environmnet\Scripts\activate'''
 
 Once done you have to install in the virtual environment the modules described before to run the program using the command:
-'python3 -m pip install module_name'
+'''python3 -m pip install module_name'''
 Replace module_name with the name of the module to install.
 Remember to use the appropriate Python version (python3) based on your system configuration.
 
 In the end it will be possible to run the program using the command:
-'python3 -m sorgente.main'
+'''python3 -m sorgente.main'''
 Remember to use the appropriate Python version (python3) based on your system configuration.
 
 ## Implementation 
