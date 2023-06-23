@@ -22,7 +22,7 @@ For the code it's possible to create and use a virtual environment just to isola
 
 ### How to create a virtual environment:
 To create a virtual environment you have to go on the console of you coding IDE and type the following command:
-'python3 -m venv virtual_environment'
+'''python3 -m venv virtual_environment'''
 Replace virtual environment with the name you want to call the environment you generated.
 Remember to use the appropriate Python version (python3) based on your system configuration.
 
